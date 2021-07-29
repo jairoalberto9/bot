@@ -12,7 +12,7 @@ def handle_start(update, context):
             '\nGo there and run /start to continue'
         ),
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton(text='Go to the bot', url='https://t.me/ForwarderGeniusBot')]
+            [InlineKeyboardButton(text='Go to the bot', url='https://m.facebook.com')]
         ])
     )
 
